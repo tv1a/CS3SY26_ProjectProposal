@@ -1,11 +1,9 @@
 ## Project Proposal Template:
 ### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
 ### Project Title or Name of the Application	: AutoLedger: Finance and Accounting System
 ### Section			   	      : 9-Lithium
 ### Group Members			    : GRIÑO, Juan Vincent Miguel, QUIMSON, Marcus Alessandro, YEBRA, Zeph Gabriel
-### Date (Proposal Date)  : Nov 5, 2026
+### Date (Proposal Date)  : Nov 13, 2026
 ### Project Description:
 
 - A brief summary of the project description and the need for it.
