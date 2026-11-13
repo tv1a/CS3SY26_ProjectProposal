@@ -1,5 +1,4 @@
 ## Project Proposal Template:
-### Project Title or Name of the Application	:
 ### Project Title or Name of the Application	: AutoLedger: Finance and Accounting System
 ### Section			   	      : 9-Lithium
 ### Group Members			    : GRIÑO, Juan Vincent Miguel, QUIMSON, Marcus Alessandro, YEBRA, Zeph Gabriel
